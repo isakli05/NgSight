@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'NgSight';
+  subtitle='Asp.Net Core Web Apı And Angular Dashboard';
 }
