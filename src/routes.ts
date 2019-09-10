@@ -7,7 +7,7 @@ import { SectionHealtComponent } from './app/sections/section-healt/section-heal
 export const appRoutes: Routes = [
   { path: 'sales', component: SectionSalesComponent },
   { path: 'orders', component: SectionOrdersComponent },
-  { path: 'healt', component: SectionHealtComponent },
+  { path: 'health', component: SectionHealtComponent },
 
   {path: '', redirectTo: '/sales', pathMatch: 'full'}
 ];
